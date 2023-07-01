@@ -1,0 +1,15 @@
+/Users/tugsshine/Desktop/CSharp/W1/D1/FirstCSharp/bin/Debug/net6.0/FirstCSharp
+/Users/tugsshine/Desktop/CSharp/W1/D1/FirstCSharp/bin/Debug/net6.0/FirstCSharp.deps.json
+/Users/tugsshine/Desktop/CSharp/W1/D1/FirstCSharp/bin/Debug/net6.0/FirstCSharp.runtimeconfig.json
+/Users/tugsshine/Desktop/CSharp/W1/D1/FirstCSharp/bin/Debug/net6.0/FirstCSharp.dll
+/Users/tugsshine/Desktop/CSharp/W1/D1/FirstCSharp/bin/Debug/net6.0/FirstCSharp.pdb
+/Users/tugsshine/Desktop/CSharp/W1/D1/FirstCSharp/obj/Debug/net6.0/FirstCSharp.csproj.AssemblyReference.cache
+/Users/tugsshine/Desktop/CSharp/W1/D1/FirstCSharp/obj/Debug/net6.0/FirstCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tugsshine/Desktop/CSharp/W1/D1/FirstCSharp/obj/Debug/net6.0/FirstCSharp.AssemblyInfoInputs.cache
+/Users/tugsshine/Desktop/CSharp/W1/D1/FirstCSharp/obj/Debug/net6.0/FirstCSharp.AssemblyInfo.cs
+/Users/tugsshine/Desktop/CSharp/W1/D1/FirstCSharp/obj/Debug/net6.0/FirstCSharp.csproj.CoreCompileInputs.cache
+/Users/tugsshine/Desktop/CSharp/W1/D1/FirstCSharp/obj/Debug/net6.0/FirstCSharp.dll
+/Users/tugsshine/Desktop/CSharp/W1/D1/FirstCSharp/obj/Debug/net6.0/refint/FirstCSharp.dll
+/Users/tugsshine/Desktop/CSharp/W1/D1/FirstCSharp/obj/Debug/net6.0/FirstCSharp.pdb
+/Users/tugsshine/Desktop/CSharp/W1/D1/FirstCSharp/obj/Debug/net6.0/FirstCSharp.genruntimeconfig.cache
+/Users/tugsshine/Desktop/CSharp/W1/D1/FirstCSharp/obj/Debug/net6.0/ref/FirstCSharp.dll
